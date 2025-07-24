@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vaibhav Srivastav 👋</h1>
+<h1 align="center">Hi there, I'm Pragati Tripathi 👋</h1>
 
 <p align="center">
   <strong>Data Science Enthusiast | Python Programmer | SQL Analyst</strong><br>
@@ -49,8 +49,8 @@
 
 ### 📫 Connect with Me
 
-- 📧 **Email**: [vaibhavsrivastav7985@gmail.com](pragatitri980@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/vaibhavsrivastav7985](https://www.linkedin.com/in/pragati-tripathi-499357330/)  
+- 📧 **Email**: [pragatitri980@gmail.com](mailto:pragatitri980@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/pragati-tripathi-499357330/https://www.linkedin.com/in/pragati-tripathi-499357330/)  
 - 📞 **Phone**: +91-9559428515
 
 ---
